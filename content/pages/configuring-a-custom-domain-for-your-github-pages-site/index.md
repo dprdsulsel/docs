@@ -1,26 +1,59 @@
----
-title: Configuring a custom domain for your GitHub Pages site
-intro: 'You can customize the domain name of your {% data variables.product.prodname_pages %} site.'
-redirect_from:
-  - /articles/tips-for-configuring-an-a-record-with-your-dns-provider
-  - /articles/adding-or-removing-a-custom-domain-for-your-github-pages-site
-  - /articles/configuring-an-a-record-with-your-dns-provider
-  - /articles/using-a-custom-domain-with-github-pages
-  - /articles/tips-for-configuring-a-cname-record
-  - /articles/setting-up-a-custom-domain-with-pages
-  - /articles/setting-up-a-custom-domain-with-github-pages
-  - /articles/configuring-a-custom-domain-for-your-github-pages-site
-  - /github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
-product: '{% data reusables.gated-features.pages %}'
-versions:
-  fpt: '*'
-  ghec: '*'
-topics:
-  - Pages
-children:
-  - /about-custom-domains-and-github-pages
-  - /managing-a-custom-domain-for-your-github-pages-site
-  - /verifying-your-custom-domain-for-github-pages
-  - /troubleshooting-custom-domains-and-github-pages
-shortTitle: Configure a custom domain
----
+<html><head>
+	<meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&amp;display=swap" rel="stylesheet">
+	<link rel="shortcut icon" href="https://i.ibb.co/w6NskFB/20220114-154854.jpg" type="image/gif">
+
+	<title>Hacked By Zx0nes84</title>
+
+	<style>
+		body {
+
+			margin-top: 25px;
+
+			text-align: center;
+			background: white;
+			color: black;
+
+			font-family: Montserrat;
+			font-size: 15px;
+		}
+		
+		h1 {
+			margin: 1px;
+			font-size: 50px;
+		}
+	
+		p { margin: 2px; }
+	</style>
+</head><body>
+
+	<small><b>SEU SITE FOI INVADIDO PELO</b></small>
+	<h1><b>Zx0nes84</b></h1>
+<img style="width:320px;margin-top:20px;margin-bottom:9px;" src="https://www.icegif.com/wp-content/uploads/chicken-icegif-25.gif"><br>
+<br><br><b>msf exploit(regsvr32_applocker_bypass_server) > set srvport 5555</b><br>
+<a href="https://twitter.com/cr_phan0x"><small><b>https://twitter.com/cr_phan0x</b></small></a><small><b>
+	<br><br><p><b>Fazenda: [ Foursdeath - theMx0nday ]</b></p><br>
+		<script>
+		let x = 0;
+		const title = [];
+		const nick = ">.<";
+
+		for (let i = 1; i <= nick.length; ++i) {
+			//   if (nick.slice(0, -i).endsWith(" ")) continue
+			title.push(nick.slice(0, i));
+		}
+		for (let i = 1; i < nick.length; ++i) {
+			// if (nick.slice(0, -i).endsWith(" ")) continue
+			title.push(nick.slice(0, -i));
+		}
+		title.push("&lrm;");
+
+		function loop() {
+			document.getElementsByTagName("title")[0].innerHTML = title[x++ % title.length];
+			setTimeout(() => loop(), 250);
+		}
+		loop();
+	</script>
+	<br>
+
+</b></small></body></html>
